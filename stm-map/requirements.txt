@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+networkx
+dill
+mayavi
+opensimplex
+noise
+tqdm
+transformations
+opencv-python 
